@@ -1,2 +1,4 @@
-# SWE573Spring2017Bogazici
-SWE573 Repository
+# Bogazici University - SWE573 - Spring 2017
+Hello. This is Selin. The sailor!
+
+
