@@ -3,5 +3,5 @@ Hello. This is Selin. The sailor!
 
 
 
-## Dropbox API
+## Twitter API
 https://github.com/SelinGungor/amassApp
